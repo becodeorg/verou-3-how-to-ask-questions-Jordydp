@@ -2,7 +2,7 @@
 
 # how to ask a question?
 ***
-1.   ## check if your question already exist
+1.  ## Check if your question already exist
     - Have a link to solutions that haven't helped or how your question is diverse
  
 2. ## Understand the code
